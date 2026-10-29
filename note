@@ -1,1 +1,1 @@
-
+ openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in definitly.gnucash -out backup.gnca
